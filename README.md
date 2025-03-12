@@ -1,4 +1,4 @@
-# Lilug Meetings Repository  
+# LILUG Meetings Repository  
 This is a place to keep meeting notes for the Long Island Linux User Group.
 
 1. Each month will have a meeting notes file uploaded, typically by the treasurer. 
