@@ -1,6 +1,6 @@
 # Febuary 2025 LILUG Meeting
 *Febuary 11th, 2025 @ [Digital Ballpark](https://maps.app.goo.gl/Uef2PiZBpZLd1n3QA)*
-*Pace-notes by [Chris Trimble] (https://github.com/Trimble-tech)*
+*Pace-notes by [Chris Trimble](https://github.com/Trimble-tech)*
 
 ## News & Small Talk
 - Nothing this month
