@@ -6,7 +6,7 @@
 - Quick discussions or news topics from the beginning of the meeting
 - If a news article is referenced put a link in
 
-## Main Discussion: Bash Scripting Tutorial by Chris Trimble
+## Main Discussion
 - Take notes on the main topic
 - Include links when relevant
 - Stylize the notes using [markdown conventions](https://www.markdownguide.org/basic-syntax/)
