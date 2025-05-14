@@ -1,6 +1,6 @@
 # May 2025 LILUG Meeting
 *May 13th, 2025 @ [Digital Ballpark](https://maps.app.goo.gl/Uef2PiZBpZLd1n3QA)*
-*Pace-notes by initial author, contributors (add GitHub links if available)*
+*Pace-notes by Chris Trimble*
 
 ## News & Small Talk
 - Demo of AI controlled Drones by Yutong
