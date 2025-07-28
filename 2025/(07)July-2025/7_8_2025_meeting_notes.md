@@ -7,7 +7,7 @@
     - This was found and patched back in April, but disclosed now
     - There were two separate issues, one with the `--chroot` option and the other with the `-h` (host) option.
     - Generally most systems should no longer be affected as long as they were patched/updated recently.
-    - https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html
+    - <https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html>
 
 - ***LILUG Picnic 2***: 
     - **Date & Time**: August 16th, 12pm
@@ -89,7 +89,7 @@ $$
 $$
 
 For more information, refer to this link:
-- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
+- <https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions>
 
 ### Take-Away
 Next month's meeting: Chris Trimble with Package Managers (apt, dnf, yum, flatpak, etc.)
