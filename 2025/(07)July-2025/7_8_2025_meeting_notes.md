@@ -3,13 +3,16 @@
 *Pace-notes by [Chris Trimble](https://github.com/Trimble-tech)*
 
 ## News & Small Talk
-- Critical Sudo Vulnerabilities
+- ***Critical Sudo Vulnerabilities***
     - This was found and patched back in April, but disclosed now
     - There were two separate issues, one with the `--chroot` option and the other with the `-h` (host) option.
     - Generally most systems should no longer be affected as long as they were patched/updated recently.
     - https://thehackernews.com/2025/07/critical-sudo-vulnerabilities-let-local.html
 
-- LILUG Picnic 2: date TBD
+- ***LILUG Picnic 2***: 
+    - **Date & Time**: August 16th, 12pm
+    - **Location**: Bethpage State Park
+    - **Supplies**: Bring your Food, Friends, Family, & Linux
 
 ## Main Discussion: Lightning Talks
 In this meeting, we had several smaller conversations on Linux-related topics.
@@ -41,10 +44,9 @@ N-Curses DU (ncdu) is a program that views folders within a terminal and can be 
 - Can be installed on Redhat or Debian distros from the `ncdu` distro.
 
 ### Matt Newhall: Undoing CHMOD & CHOWN on a folder
+- Tools like getfacl, chmod, chown can revert permissions manually if needed, but there often is no "silver bullet" solutions.
 - Use permissions from a similar folder to replicate to the folder needing revert
-- 
-
-Or, you can extract permissions from a tarball of a backed up file.
+- If in doubt, restore the system from a backup.
 
 ### Yutong: Cryptocurrency Issues and How to Avoid Them
 - Cryptocurrency can be a way to make spare income off of a running server where electricity costs and hardware power are allocated cheaply.
@@ -52,7 +54,7 @@ Or, you can extract permissions from a tarball of a backed up file.
 - If the capitalization of the cryptocurrency is low, less money is needed to devalue the currency.
 
 **Possible mitigations:**
-- Stick to more mainstream currencies
+- Stick to more mainstream currencies.
 - It might be possible to use bots or algorithms to automate fraud detection.
 
 
@@ -90,5 +92,4 @@ For more information, refer to this link:
 - https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
 ### Take-Away
-
 Next month's meeting: Chris Trimble with Package Managers (apt, dnf, yum, flatpak, etc.)
