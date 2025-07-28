@@ -58,10 +58,7 @@ Or, you can extract permissions from a tarball of a backed up file.
 
 ### Chris: Markdown Formatting
 
-This is a document written in Markdown, and it has a paragraph. 
-This is the same paragraph.
-
-This is a different paragraph.
+Discussed markdown formatting in general and how to make documents in the format. For more information, please browse around this repository for formatting and examples.
 
 ### Lee: Emby, Plex, and Jellyfin
 Emby, Plex, and Jellyfin are all software to store and archive video or audio media.
@@ -82,11 +79,15 @@ A good idea is to pull images like comics and store them in their own library. L
 - Tools like Handbrake can be helpful for modifying media itself, while numerous tools are available for editing metadata.
 
 ### Yutong: Formatting Mathematics in Markdown
-
+- Markdown format can be used to create complex equations for mathematics, physics, and more.
+- This equation is an example with many different mathematical elements.
 $$
 \underset{\text{Einstein Field Equation}
 }{R_{\mu\nu} - \frac{1}{2} R g_{\mu\nu} + \Lambda g_{\mu\nu} = \frac{8\pi G}{c^4} T_{\mu\nu}}
 $$
+
+For more information, refer to this link:
+- https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions
 
 ### Take-Away
 
