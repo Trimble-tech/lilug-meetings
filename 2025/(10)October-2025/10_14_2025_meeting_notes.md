@@ -8,7 +8,7 @@
 - Secure Boot Bypass in Framework Laptops (https://www.bleepingcomputer.com/news/security/secure-boot-bypass-risk-on-nearly-200-000-linux-framework-sytems/)
 - Distributed Quantum Computing Across an Optical Link
     - Scientific Journal article here: https://www.nature.com/articles/s41586-024-08404-x
-    - PDF of article availble for download
+    - PDF of article availble for download in this month's meeting notes.
 - NY state invests $300 million in quantum internet research at Stony Brook University
     - https://longisland.news12.com/nys-invests-usd300-million-in-quantum-internet-research-at-stony-brook
 
