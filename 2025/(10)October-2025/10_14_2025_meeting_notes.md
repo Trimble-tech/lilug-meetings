@@ -1,4 +1,3 @@
-# October 2025 LILUG Meeting
 *October 14th, 2025 @ [Digital Ballpark](https://maps.app.goo.gl/Uef2PiZBpZLd1n3QA)*
 *Pace-notes by [Chris Trimble](https://github.com/Trimble-tech)*
 
