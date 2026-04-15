@@ -11,5 +11,5 @@
 - Include links when relevant
 - Stylize the notes using [markdown conventions](https://www.markdownguide.org/basic-syntax/)
 
-### Take-Away
+## Take-Away
 Optional, if there are things the presenter, secretary or note-taker wants to add.
