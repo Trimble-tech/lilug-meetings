@@ -1,5 +1,6 @@
 # Month Year LILUG Meeting
 *Month Day, Year @ Location with Maps or web-link*
+
 *Pace-notes by initial author, contributors (add GitHub links if available)*
 
 ## News & Small Talk
@@ -11,5 +12,5 @@
 - Include links when relevant
 - Stylize the notes using [markdown conventions](https://www.markdownguide.org/basic-syntax/)
 
-### Take-Away
+## Take-Away
 Optional, if there are things the presenter, secretary or note-taker wants to add.
