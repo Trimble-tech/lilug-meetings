@@ -1,5 +1,6 @@
 # Month Year LILUG Meeting
 *Month Day, Year @ Location with Maps or web-link*
+
 *Pace-notes by initial author, contributors (add GitHub links if available)*
 
 ## News & Small Talk
