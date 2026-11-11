@@ -14,6 +14,6 @@
 - Incredibly rare bug in OpenSSH on musl gets root access [Hacker News](https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html) [Seclists.org Disclosure](https://seclists.org/fulldisclosure/2016/Jul/51)
 
 ## LILUG To Do
-- Announce meeting notes on the mailing list
-- Discuss/Work on future meeting topics
-- Promote/advance the mailing list on Groups.io
+- The *Island Labs* group is holding their "T-1" dinner again at Plattduetsche Restaurant on November 25th.
+    - Find details or register for interest here: [T-1 Day Dinner](https://2026.islandlabs.org/)
+- Consider joining the [Groups.io](https://groups.io/g/lilug) mailing list if you want to discuss Linux with us and get announcements.
